@@ -1,0 +1,5 @@
+https://github.com/yszanwar/phase2_qrt_challenge/releases/download/price_data/all_prices_5000_tickers.parquet
+https://github.com/yszanwar/phase2_qrt_challenge/releases/download/dataset/returns.parquet
+https://github.com/yszanwar/phase2_qrt_challenge/releases/download/dataset/universe_1m.parquet
+https://github.com/yszanwar/phase2_qrt_challenge/releases/download/dataset/universe_5m.parquet
+https://github.com/yszanwar/phase2_qrt_challenge/releases/download/features/features.parquet
